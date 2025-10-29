@@ -1,1 +1,1 @@
-![screenshot](Solidworks_Practical_Tutorial_Episode_1_Cubic_Rectangle.png)
+![screenshot](Solidworks_Practical_Tutorial_Episode_1_Cubic_Rectangle.PNG)
